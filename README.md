@@ -22,11 +22,11 @@ Most of my day-to-day work is hosted on private military networks; however, ther
 
 My project is at 1:45:48 in the video. The demo is of the Rapid Routing and Decision Dashboard, a document routing app deployed to the .mil network. You can find the code on my github. I built the entire front-end of that application and designed the back-end with my team. A project like this would likely take me 3 weeks to create independantly.
 
-- https://supracoders.us/projects/#supra-coders-cohort-2-projects skip to 1:45:48
+- [https://supracoders.us/projects/#supra-coders-cohort-2-projects](https://supracoders.us/projects/#supra-coders-cohort-2-projects) skip to 1:45:48
 
 ### Websites I have maintained in the past
-- www.stokedskateboards.com (shopify platform)
-- www.vandenbergfss.com/ (wordpress platform)
+- [www.stokedskateboards.com](www.stokedskateboards.com) (shopify platform)
+- [www.vandenbergfss.com/](www.vandenbergfss.com/) (wordpress platform)
 
 ## About Me
 
@@ -40,6 +40,6 @@ Active-duty Space Force software developer working with the Space Delta 4 Combat
 
 ## Contact
 
-andrew.pham@g.harvard.edu
+[andrew.pham@g.harvard.edu](andrew.pham@g.harvard.edu)
 
-www.linkedin.com/in/andrewp/
+[www.linkedin.com/in/andrewp/](www.linkedin.com/in/andrewp/)
