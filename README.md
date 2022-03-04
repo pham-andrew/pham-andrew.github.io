@@ -1,17 +1,17 @@
 # Andrew Pham
 
-Hello, if you are reading this you've asked me to freelance or consult for you. I don't do it very often as I'm a full time software developer but if you're reading this it usually means we've talked and I think I can do what you want. My rate is typically $75/hr varying from $50 to $100 depending on the project.
+Hello, welcome to my consulting landing page. I don't do consult very often as I'm a full time software developer but if you're reading this it usually means we've talked and I think I can do what you want. I calculate projects costs off a typical rate of $75/hr varying from $50 to $100 depending on the project.
 
 ## Services
 
-### What I can do
-1. Deploy a full stack react website. My preferred component library is MaterialUI, taking a look at their template store and their homepage will give you an idea of the design system I'm comfortable building with.
-2. Fix a specific issue you have with your current website or web app running on a MERN/PERN/LAMP stack, Shopify, or Wordpress.
-3. Build a web application on your existing React, Shopify, Wordpress or classic HTML-CSS-JS website.
+### I need a website or application built from the ground up.
+I can develop and deploy full stack websites. I the codebase will be React and the design components will come from MaterialUI, taking a look at MUI's homepage and template store will give you an idea of the design system I'm comfortable with.
 
-### What I can't do
-1. Deploy, maintain, and update an application indefinitely. I'm employed full time and it wouldn't be fair to you if something came up and your project was on the backburner.
-2. Attempt to make major changes to an already existing application that are not in a familiar tech stack. If the client insists, I have done emergency fixes in the past but it will likely degrade the quality of your codebase.
+### I need a wordpress website built so that I or a webmaster can maintain it.
+I can deploy wordpress sites but I do not have extensive experience customizing their themes. I will setup the hosting, domains, wordpress installation, and post any initial content you'd like on the site then hand it off to you. I can build custom front-end web applications and pages for your site. 
+
+### I need a shopify site.
+I can create Shopify sites and customize Shopify themes. I can build custom front-end web applications and pages for your site. 
 
 ## Resume
 
@@ -30,7 +30,7 @@ Active-duty Space Force Lead Software Developer working with the Space Delta 4 C
 ### Education
 1. Master of Liberal Arts in Software Engineering from Harvard (awaiting graduation in May).
 2. Bachelor of Science in Computer Science with focus in Video Game Design (and minor in Geology hilariously).
-3. Graduate of Galvanize Software Development Immersive coding bootcamp by Galvanize.
+3. Graduate of Galvanize Software Development Immersive coding bootcamp.
 
 ## Contact
 
