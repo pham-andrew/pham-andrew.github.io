@@ -18,25 +18,21 @@ I can create Shopify sites and customize Shopify themes. I can build custom fron
 
 ## Resume
 
-Day to day I lead the development of multiple military web applications in various lifecycle phases from prototyping to maintenance. My experience with building full stack applications primarily comes from my day job as lead developer. I currently am the lead for 2 apps in prototyping, 1 app in production, and I've worked with 2 other apps in the past that are deployed to thousands of users.
+Day to day I lead the development of multiple military web applications in various lifecycle phases from prototyping to maintenance. My experience with building full stack applications primarily comes from my day job as lead developer. I currently am the lead for 3 apps in production, and I've worked with 2 other apps in the past that are deployed to thousands of users.
 
-### Companies I have contracted for in the past:
-- [www.stokedskateboards.com](www.stokedskateboards.com): Shopify Deployment, Shopify Theme Custimozation, Special App & Page Creation, Emergency Website Recovery
+### Companies I've contracted for in the past:
+- [www.stokedskateboards.com](www.stokedskateboards.com): Product Selection Web App, Shopify Deployment, Shopify Theme Custimozation, Emergency Website Recovery
 - [www.vandenbergfss.com/](www.vandenbergfss.com/): Wordpress Maintenance, Website Content Updates, Design Fixes, Military Network Firewall Whitelisting
 - [https://www.showcasetech.com/](https://www.showcasetech.com/): Website Reconstruction, Web Scraping
+- [https://www.blockchainbanditsnft.com/](https://www.blockchainbanditsnft.com/): Web3 Storefront, React
 
 ## About Me
 
 ### Profession
-Active-duty Space Force Lead Software Developer working in Space Delta 4 Combat Developments Division, Space Camp, and Section 31. I often work side by side with contractors from major software development consulting firms like VMware.
+Active-duty Space Force Lead Software Developer. I often work with contractors from major software development consulting firms like VMware.
 
 ### Education
-1. Master of Liberal Arts in Software Engineering from Harvard (awaiting graduation in May).
-2. Bachelor of Science in Computer Science with focus in Video Game Design (and minor in Geology hilariously).
-3. Graduate of Galvanize Software Development Immersive coding bootcamp.
-
-## Contact
-
-[andrew.pham@g.harvard.edu](andrew.pham@g.harvard.edu)
-
-[www.linkedin.com/in/andrewp/](www.linkedin.com/in/andrewp/)
+1. Technical Fellow at MIT
+1. Master of Liberal Arts in Software Engineering from Harvard
+1. Bachelor of Science in Computer Science with focus in Video Game Design (and minor in Geology hilariously)
+1. Graduate of Galvanize Software Development Immersive coding bootcamp
