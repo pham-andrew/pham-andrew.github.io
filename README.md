@@ -1,6 +1,6 @@
 # Andrew Pham
 
-Hello, welcome to my consulting landing page. I don't contract very often as I work in the industry full time but if you're reading this it usually means we've talked and I think I can do what you want. I'm a software factory director in the Space Force and a project liason at MIT. I calculate project costs from a baseline rate of $75-$100/hr depending on the difficulty, criticality, and speed of the project with $100 being the baseline for development work.
+Hello, welcome to my consulting landing page. I don't contract very often as I work in the industry full time but if you're reading this it usually means we've talked and I think I can do what you want. I'm a software factory director in the Space Force and a project liason at MIT. I calculate project costs from a baseline rate of $75/hr for consulting and $100 an hour for development work going up depending on the difficulty, criticality, and speed of the project.
 
 ## Services
 
