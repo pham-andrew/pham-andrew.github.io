@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My personal blog, serves as a free backup for some of my articles on Medium and as a home for articles I think very few will care about.
