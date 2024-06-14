@@ -2,7 +2,7 @@
 tags: computers
 ---
 
-## Blog Post Title From First Header
+## Teredo is unable to qualify
 
 So you’re trying to play Forza on Windows 10 or whatever and the Xbox Live Networking app is giving you this error:
 
