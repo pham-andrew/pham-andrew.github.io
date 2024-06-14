@@ -12,9 +12,7 @@ I personally loved the ending and thought it was a satisfactory resolution to th
 
 Himeno’s last contact was by letter three years ago. Now desperate to reconnect, Kusonoki uses the address to find her and the two catch up over dinner. At dinner Kusonoki breaks down telling her that he’s sold his lifespan and is dying soon. Himeno thinks he’s going crazy but believes him as she knows her childhood friend well enough to catch him in a lie. Himeno then disappears after going to the bathroom but leaves Kusonoki a note:
 
-```
-At the viewing platform, I had meant to have you wait below and fall right down next to you. Maybe you would say you didn’t realize but I always despised you. For never responding to my cries for help then casually appearing before me now, I couldn’t hate you more. So now that you consider me someone you can’t do without I thought I’d kill myself.
-```
+> At the viewing platform, I had meant to have you wait below and fall right down next to you. Maybe you would say you didn’t realize but I always despised you. For never responding to my cries for help then casually appearing before me now, I couldn’t hate you more. So now that you consider me someone you can’t do without I thought I’d kill myself.
 
 However she changes her mind believing that getting revenge on an insane man would do no good. She closes the letter telling him she hopes it’s true that he’s dying soon.
 
