@@ -1,1 +1,1 @@
-My personal blog, serves as a free backup for some of my articles on Medium and as a home for articles I think very few will care about. This is a continuation of my Harvard blog that was shutdown.
+My personal blog, serves as a free backup for some of my articles on Medium and as a home for articles I think very few will care about. This is a continuation of my Harvard blog, you can find an archive of that here: https://archive.blogs.harvard.edu/adeepdive/
