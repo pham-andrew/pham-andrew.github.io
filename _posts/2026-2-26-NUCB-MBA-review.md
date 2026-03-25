@@ -2,7 +2,7 @@
 tags: other
 ---
 
-## 
+## NUCB International MBA Review
 
 Bottom line up front: I recommend NUCB Business School. It's not perfect, lots of complaints actually, but overall it's a fun and worthwhile experience. Note: From now on when I reference NUCB, I specifically mean the Graduate School of Management's international MBA program, not the larger NUCB university.
 
