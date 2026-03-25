@@ -36,4 +36,4 @@ Many say they learn nothing from the case method and the grading system is unfai
 
 Now I know you don't want to take the same class every Monday for 14 weeks and spread your classes through the week, you're in Japan. You don't want to write a hand written essay to determine your grade right? You certainly wouldn't speak up in class if you knew you could do nothing. And lastly, not even an option, you can't make the grades homework based because all the assignments are AI assisted. 
 
-So if you want an accredited MBA that lets you spend time enjoying Japan the trade off is: you don't get a fair grade, then you graduate anyways because the GPA requirements for non-one-year students is like a 2.0, and no one will even care about your GPA afterwards anyway.
+So if you want an accredited MBA that lets you spend time enjoying Japan the trade off is: you don't get a fair grade, then you graduate anyways because the GPA requirements for two year students is like a 2.0, and no one will even care about your GPA afterwards anyway.
