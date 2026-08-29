@@ -4,9 +4,9 @@ tags: other
 
 ## NUCB MBA Review
 
-Bottom line up front: I recommend NUCB Business School. It's not perfect, lots of complaints actually, but overall it's a fun and worthwhile experience. Note: From now on when I reference NUCB, I specifically mean the Graduate School of Management's international MBA program, not the larger NUCB university.
-
 ---
+
+Bottom line up front: I recommend NUCB Business School. It's not perfect, lots of complaints actually, but overall it's a fun and worthwhile experience. Note: From now on when I reference NUCB, I specifically mean the Graduate School of Management's international MBA program, not the larger NUCB university.
 
 ### Key Things to Know
 1. The most important thing to know is almost every class has a perfect curve grading system. Basically you are ranked against your peers in class and the top 10% get an A, the next 20% get a B, all the way down to F. That means 30% of the class will always fail (D or F). This is, in my opinion, a fair assessment, if everyone gets an A, then an A means nothing, your grades should reflect your ability among your peers. However, there's one key characteristic of NUCB where this falls apart: 70% of the grade composition is class participation and the classes are 4 days. So this becomes a hugely subjective matter, thereby making NUCB's grading the most hated aspect by students and professors alike. This is most relevant for 1 year MBA students who need a 3.0 GPA, which means only 10% of 1 year MBA students complete the program in 1 year. You will not have an objective grade that reflects your understanding of the subject matter at NUCB.
